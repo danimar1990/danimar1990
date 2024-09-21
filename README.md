@@ -9,7 +9,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: create a new project and get most visibility in the Java Community.
+:outbox_tray: 2023 Goals: create a new project and get most visibility in the Java Community.
 
 ### Skills ###
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/download/help/java8.html)
