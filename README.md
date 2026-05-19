@@ -32,7 +32,7 @@
 ![Danimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimar1990&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimar1990&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dantonbertuol/dantonbertuol/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/dantonbertuol/dantonbertuol/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/danimar1990/danimar1990/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/danimar1990/danimar1990/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
 - Thanks for visiting.
 
