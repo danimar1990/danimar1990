@@ -3,13 +3,11 @@
  ## I'm Danimar!
 
 
-:computer: I'm Back-End Developer!
+:computer: Full-stack Enginer at Itaú Unibanco!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Santa Catarina, Brazil.
 
 :books: I’m currently learning everything.
-
-:outbox_tray: 2023 Goals: create a new project and get most visibility in the Java Community.
 
 ### Skills ###
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/download/help/java8.html)
@@ -20,19 +18,14 @@
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/releases/8.0/en.php)
-[![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![](https://img.shields.io/badge/AWS-2496ED?style=for-the-badge&logo=docker&logoColor=white)]([https://www.docker.com/](https://www.google.com/aclk?sa=L&ai=DChsSEwjblvq86MWUAxVVakgAHbwRIz0YACICCAEQAhoCY2U&ae=2&aspm=1&co=1&ase=2&gclid=Cj0KCQjwlLDQBhDjARIsAPlIefEfk7g5dAFZR5aujeZf02LLnecFNPVQ36dIS8zI_oaSv31RdMDxQGMaAmt_EALw_wcB&cid=CAASZuRobI5ELG1TpjrrYe9vsbgS8B7eRIcOtOphNP8kGfbEtMzK48DR7ce0nFoPe6MvVJTdQCYD1_n5X1XWVihhERtABeF1ki21ebuygfZsMi-i7U8pM--nZK8PCLnA_kul8BJ2Zlqw0w&cce=2&category=acrcp_v1_35&sig=AOD64_2MSLxe91YlbaZ32NGwidBA24-SDw&q&nis=4&adurl&ved=2ahUKEwi00_O86MWUAxX9JrkGHfwmCTAQ0Qx6BAgNEAE))
 
 ### Do you want to connect with me? ###
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danimar-varisa/)]( https://www.linkedin.com/in/danimar-varisa/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danimarvarisa@gmail.com)
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549999990733)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://invelox.com.br)
 
 ![Danimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimar1990&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimar1990&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/danimar1990/danimar1990/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/danimar1990/danimar1990/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
 - Thanks for visiting.
 
